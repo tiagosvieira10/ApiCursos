@@ -1,4 +1,4 @@
-package br.com.apidecurso.apicurso;
+package br.com.apidecurso.cursos;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
